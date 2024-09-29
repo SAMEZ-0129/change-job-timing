@@ -1,70 +1,28 @@
-# Getting Started with Create React App
+# 이직 타이밍 분석기 웹 애플리케이션
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 프로젝트 개요
+**이직 타이밍 분석기 웹 애플리케이션**은 사용자가 이직을 고려할 때 적절한 시기를 분석하고 추천하는 도구입니다. AI의 도움을 받아 제작했으며, 단순히 재미를 위한 개인 개발 작업물입니다. :)
 
-## Available Scripts
+## 기술 스택
+- **프론트엔드**: HTML, CSS, JavaScript (React)
+- **백엔드**: Node.js (Express)
+- **배포**: Vercel
 
-In the project directory, you can run:
+## 사이트 URL
+https://change-job-timing.vercel.app/
 
-### `npm start`
+## 기여
+프로젝트에 기여하고 싶으신 분은 다음 단계를 따르세요:
+1. 포크(fork)합니다.
+2. 새로운 브랜치를 생성합니다.
+3. 변경 사항을 커밋합니다.
+4. 푸시합니다.
+5. Pull Request를 생성합니다.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 라이센스
+이 프로젝트는 **MIT 라이센스**에 따라 배포됩니다.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 연락처
+- **이메일**: minuk005@naver.com
+- **GitHub**: [SAMEZ](https://github.com/SAMEZ-0129)
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
