@@ -8,13 +8,8 @@
 - **백엔드**: Node.js (Express)
 - **배포**: Vercel
 
-# 사이트 URL
+## 사이트 URL
 https://change-job-timing.vercel.app/
-
-## 사용 방법
-1. 애플리케이션에 접근합니다.
-2. 이직 관련 정보를 입력합니다.
-3. 분석 결과를 확인합니다.
 
 ## 기여
 프로젝트에 기여하고 싶으신 분은 다음 단계를 따르세요:
@@ -28,6 +23,6 @@ https://change-job-timing.vercel.app/
 이 프로젝트는 **MIT 라이센스**에 따라 배포됩니다.
 
 ## 연락처
-- **이메일**: your.email@example.com
-- **GitHub**: [your-github-username](https://github.com/your-github-username)
+- **이메일**: minuk005@naver.com
+- **GitHub**: [SAMEZ](https://github.com/SAMEZ-0129)
 
